@@ -1,0 +1,6 @@
+{
+  "name": "EstateHub",
+  "description": "Modern Real Estate & Property Discovery Platform with AI Recommendations, Mortgage Calculator, and Agent Profiles",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
